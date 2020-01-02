@@ -1,6 +1,6 @@
 <template>
   <view class="container">
-    <text class="text-color-primary">Image Processing Problem</text>
+    <text class="text-color-primary">Image Processing</text>
   </view>
 </template>
 
