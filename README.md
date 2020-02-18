@@ -2,6 +2,8 @@
 
 ![Tongji logo](./Imgs/TJ.png)
 
+---
+
 Title
 
 - ML-Based Image Enhancement of Low-Quality QR Code Images for Fast Data Decoding
@@ -25,6 +27,8 @@ images.
 |  Windows CPU / GPU  |                                                         <center>—</center>                                                          | [![Build Status](https://ci.pytorch.org/jenkins/job/pytorch-builds/job/pytorch-win-ws2016-cuda9-cudnn7-py3-trigger/badge/icon)](https://ci.pytorch.org/jenkins/job/pytorch-builds/job/pytorch-win-ws2016-cuda9-cudnn7-py3-trigger/) |                                                                                         <center>—</center>                                                                                          |
 | Linux (ppc64le) CPU |                                                         <center>—</center>                                                          |                                                                                                         <center>—</center>                                                                                                          |           [![Build Status](https://powerci.osuosl.org/job/pytorch-master-nightly-py3-linux-ppc64le/badge/icon)](https://powerci.osuosl.org/job/pytorch-master-nightly-py3-linux-ppc64le/)           |
 | Linux (ppc64le) GPU |                                                         <center>—</center>                                                          |                                                                                                         <center>—</center>                                                                                                          | [![Build Status](https://powerci.osuosl.org/job/pytorch-linux-cuda92-cudnn7-py3-mpi-build-test-gpu/badge/icon)](https://powerci.osuosl.org/job/pytorch-linux-cuda92-cudnn7-py3-mpi-build-test-gpu/) |
+
+---
 
 ### Image Enhancement
 
