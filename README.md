@@ -1,6 +1,10 @@
 # Bachelor Thesis
 
+<center>
+
 ![Tongji logo](./Imgs/TJ.png)
+
+</center>
 
 Title
 
