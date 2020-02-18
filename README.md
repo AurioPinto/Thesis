@@ -35,3 +35,13 @@ images.
 - Image De-Blur and Enhancement
 
 ![](./Imgs/Enhance.png)
+
+# Convolutional neural network Model
+
+- The enhancer developed is based on a Convolutional Neural Network or in short CNN, trained
+  from zero and built on a structure usually referred as auto-encoder. CNNs are particular kinds of
+  Neural Networks (NN) which simulate the convolution operation. The convolution I\*K between an
+  input matrix I and another matrix, the kernel or filter, K is obtained by translate pixel-by-pixel the
+  kernel
+
+![CNN model](./Imgs/CNN.png)
