@@ -1,6 +1,7 @@
 # Bachelor Thesis
 
-![Tongji logo](./Imgs/TJ.png)
+<!-- ![Tongji logo](./Imgs/TJ.png#center) -->
+<img style="float: center;" src="./Imgs/TJ.png">
 
 ---
 
@@ -36,7 +37,7 @@ images.
 
 ![](./Imgs/Enhance.png)
 
-# Convolutional neural network Model
+### Convolutional neural network Model
 
 - The enhancer developed is based on a Convolutional Neural Network or in short CNN, trained
   from zero and built on a structure usually referred as auto-encoder. CNNs are particular kinds of
