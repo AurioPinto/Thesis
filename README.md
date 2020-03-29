@@ -7,7 +7,7 @@
 
 Title
 
-- ML-Based Image Enhancement of Low-Quality QR Code Images for Fast Data Decoding
+- Image enhancement and fast recognition of low-quality QR codes
 
 # Aims
 
