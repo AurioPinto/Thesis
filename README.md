@@ -1,4 +1,4 @@
-# Bachelor Thesis
+#  毕业设计(论文)(通信工程)
 <br>
 <p align='center'>
 <img src='./Imgs/TJ.png'>
